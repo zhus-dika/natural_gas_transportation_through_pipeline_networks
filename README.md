@@ -19,4 +19,16 @@ The construction of graphs based on the obtained numerical results is implemente
 
 ### Example output plots:
 
+For pressure values:
+
+![plot](https://github.com/zhus-dika/natural_gas_transportation_through_pipeline_networks/blob/main/template_data/output/pstarts_gr.jpeg?raw=true)
+
+For density values:
+
+![plot](https://github.com/zhus-dika/natural_gas_transportation_through_pipeline_networks/blob/main/template_data/output/rhos.jpeg?raw=true)
+
+and
+
+![plot](https://github.com/zhus-dika/natural_gas_transportation_through_pipeline_networks/blob/main/template_data/output/rhos_gr.jpeg?raw=true)
+
 NOTE: The input data for the calculations were not included in this repository due to privacy policy, but examples of filling in the data are in the data folder.
