@@ -4,17 +4,17 @@
 **Guide to run code:**
 
 
-To run calculations follow instructions below:
+To run calculations follow the instructions below:
 
 1---> run code in the file calculateFunctions.nb
 
 2---> run code in the file calculateProcedures.nb
 
-3---> run code in the file linearSegmentCalculations.nb
+3---> run code in the file globalVariables_excel.nb
 
-results will be shown in the file linearSegmentCalculations.nb
+4---> run code in the file linearSegmentCalculations.nb
 
-The calculation results will be written in the .dat files. 
+The calculation results will be written in .dat files. 
 The construction of graphs based on the obtained numerical results is implemented in the file linearSegmentCalculations.nb.
 
 ### Synthetic transmission network without gas compressor units
