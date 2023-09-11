@@ -17,6 +17,10 @@ results will be shown in the file linearSegmentCalculations.nb
 The calculation results will be written in the .dat files. 
 The construction of graphs based on the obtained numerical results is implemented in the file linearSegmentCalculations.nb.
 
+### Synthetic transmission network without gas compressor units
+
+![plot](https://github.com/zhus-dika/natural_gas_transportation_through_pipeline_networks/blob/main/template_data/network.jpeg?raw=true)
+
 ### Example output plots:
 
 For pressure values:
