@@ -35,4 +35,4 @@ and
 
 ![plot](https://github.com/zhus-dika/natural_gas_transportation_through_pipeline_networks/blob/main/template_data/output/rhos_gr.jpeg?raw=true)
 
-NOTE. The input data for the calculations was not included in this repository due to the privacy policy, but examples of filling out the data are in the template_data folder.
+NOTE. The input data for calculations are located in the template_data folder.
