@@ -1,5 +1,5 @@
 # Natural gas transportation through pipeline networks
-### Source code for modelling natural gas transportation through pipeline networks
+### Source code for modelling natural gas transportation through pipeline networks https://doi.org/10.26577/JMMCS202412112
 
 **Guide to run code:**
 
